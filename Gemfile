@@ -16,6 +16,7 @@ gem 'uglifier', '>= 1.3.0'
 
 gem 'kaminari'
 
+
 gem 'devise'
 
 # 画像投稿用gem
